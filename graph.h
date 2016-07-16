@@ -1,3 +1,9 @@
+/* Klasa SP jest grafem, ktory modeluje np. spolecznosc. Wierzcholki sa napisami (np. nazwiska osob), krawedzie skierowane modeluja relacje pomiedzy osobami. Implementacja metod:
+- dodawanie wierzcholka
+- usuwanie wierzcholkow i wszystkich krawedzi
+- dodawanie krawedzi miedzy osobami
+- laczenie wierzcholkow (i scalanie przy tym krawedzi) */
+
 #pragma once
 #include <iostream>
 #include <map>

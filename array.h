@@ -1,3 +1,8 @@
+/* Szablon klasy bedacej tablica o zmiennym rozmiarze zawierajaca elementy typu T. Zaimplementowac metody:
+- dodawanie elementu na koncu
+- usuwanie 
+- operator przypisania */
+
 #pragma once
 #include <iostream>
 

@@ -1,3 +1,9 @@
+/* Klasa "lista osob". Zaimplementowac metody:
+- jesli lista zawiera obiekt o takim samym peselu - uaktualnic pole imie i nazwisko; w przeciwnym wypadku dodaje obiekt
+- wybiera osoby, ktorych pola zawieraja txt i dodaje je do listy wyslanej jako argument
+- operator ==
+- operator *; zwraca liste osob, ktore wystepuja na obu listach bedacych argumentami (przyklad c=a*b) */
+
 #include "stdafx.h"
 #include <iostream>
 #include <string>
